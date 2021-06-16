@@ -12,6 +12,7 @@ public class App
     	//Comment
         System.out.println( "To the SecondNewBranch!" );
         System.out.println( "Hello World!" );
+        System.out.println( "From NewBranch!" );
     }
 }
 
